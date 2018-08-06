@@ -3,7 +3,6 @@
 [Signal Processing Laboratory (LTS5)]: http://lts5www.epfl.ch
 [Institute of Sensors, Signals and Systems]: https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm
 [Heriot-Watt University]:https://www.hw.ac.uk/
-[paper]:https://infoscience.epfl.ch/record/229453/files/IUS2017_USSR_An_UltraSound_Sparse_Regularization_Framework.pdf
 
 Adrien Besson<sup>1</sup>, Dimitris Perdios<sup>1</sup>, Yves Wiaux<sup>2</sup> and Jean-Philippe Thiran<sup>1,3</sup>
 
@@ -13,7 +12,6 @@ Adrien Besson<sup>1</sup>, Dimitris Perdios<sup>1</sup>, Yves Wiaux<sup>2</sup> 
 
 <sup>3</sup>Department of Radiology, University Hospital Center (CHUV), Switzerland
 
-Supporting code of this [paper], submitted to IEEE Signal Processing Letters
 
 ## Abstract
 We study the performance of joint-sparse algorithms when part of the unknown signal support is known. 
@@ -41,7 +39,7 @@ We also demonstrate that the techniques lead to a significant increase of the im
 1. Enter in the `spl2018_joint_sparse` folder
 
     ```bash
-    cd joint_sparse_algorithms
+    cd spl2018_joint_sparse
     ```
     
 1. (Optional) Create a dedicated Python environment
@@ -74,4 +72,4 @@ We also demonstrate that the techniques lead to a significant increase of the im
  Adrien Besson (adrien.besson@epfl.ch)
  
 ## License
-TBD
+The code in this repository is released under the terms of the [MIT license](LICENSE).
