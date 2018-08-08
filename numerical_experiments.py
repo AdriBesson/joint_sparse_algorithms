@@ -1,17 +1,17 @@
-# Script used to regenerate Figure 1 of the paper "Joint Sparsity with Partially Known Support abd Application to
+# Script used to regenerate Figure 1 of the paper "Joint Sparsity with Partially Known Support and Application to
 # Ultrasound Imaging" submitted to IEEE Signal Processing Letters
 # Author: adrien.besson@epfl.ch
-# Date; July 2018
+# Date: July 2018
 
 import pickle
 import os.path
 import utils as ut
 
 # Figure one wants to regenerate
-fig_name = 'b' # 'a' to 'e'
+fig_name = 'f' # 'a' to 'e'
 flag_plot = 1 # 1 for plotting, 0 for no plotting
 flag_save = 1 # 1 for saving, 0 for no saving
-flag_run_experiments = 1 # 1=run the experiments, 0=use stored files
+flag_run_experiments = 0 # 1=run the experiments, 0=use stored files
 
 # Number of simulation runs
 num_trial = 1000

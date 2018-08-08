@@ -66,6 +66,7 @@ We also demonstrate that the techniques lead to a significant increase of the im
     
 ## Usage
 1. `numerical_experiments.py` provides a script to run the experiments to generate Figures 2-a to 2-f 
+1. `numerical_experiments_supplementary.py` provides a script to run the experiments to generate Figure 4 (in the supplementary material of the publication)
 1. `example_theorem2.pynb` is an explicative notebook that illustrates the benefit of partial known support for rank-aware methods (Theorem 2)
         
 ## Contact
