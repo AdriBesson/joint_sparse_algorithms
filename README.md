@@ -3,6 +3,7 @@
 [Signal Processing Laboratory (LTS5)]: http://lts5www.epfl.ch
 [Institute of Sensors, Signals and Systems]: https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm
 [Heriot-Watt University]:https://www.hw.ac.uk/
+[paper]:http://infoscience.epfl.ch/record/256431?&ln=fr
 
 Adrien Besson<sup>1</sup>, Dimitris Perdios<sup>1</sup>, Yves Wiaux<sup>2</sup> and Jean-Philippe Thiran<sup>1,3</sup>
 
@@ -12,6 +13,7 @@ Adrien Besson<sup>1</sup>, Dimitris Perdios<sup>1</sup>, Yves Wiaux<sup>2</sup> 
 
 <sup>3</sup>Department of Radiology, University Hospital Center (CHUV), Switzerland
 
+Code used to reproduce the results presented in this [paper], submitted to the IEEE Signal Processing Letters
 
 ## Abstract
 We study the performance of joint-sparse algorithms when part of the unknown signal support is known. 
